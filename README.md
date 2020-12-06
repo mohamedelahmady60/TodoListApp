@@ -1,14 +1,18 @@
-# TodoListApp (IOS13 & Swift5)
+## TodoListApp (IOS13 & Swift5)
 A todolist app to keep track of all your tasks.
 
 
-The objective of this application is to practice: 
+# The objective of this application is to practice: 
 1- AutoLayout.
-2- TableViews.
+
+2- Dealing with TableViews.
+
 3- CoreData: how to deal with data (Add, delete, and update).
 
 
-* let's take a look, you can simply add your task by clicking on plus button 
+# let's take a look:
+
+* you can simply add your task by clicking on plus button 
 
 ![Screen Shot 2020-11-10 at 3 21 23 PM](https://user-images.githubusercontent.com/39662661/98679478-c6929c00-2368-11eb-8f9d-208b4a95222a.png)
 
